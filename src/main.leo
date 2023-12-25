@@ -1,5 +1,5 @@
 // The 'ankaratokenworkshop' program.
-program kyatzu_1234476132846.aleo {
+program artun_ankara_leo.aleo {
     
     mapping account:address => u64;
 
